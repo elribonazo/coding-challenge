@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "draaguchallenge-tvOS.app"
-               BlueprintName = "draaguchallenge-tvOS"
-               ReferencedContainer = "container:draaguchallenge.xcodeproj">
+               BuildableName = "draagu-tvOS.app"
+               BlueprintName = "draagu-tvOS"
+               ReferencedContainer = "container:draagu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "draaguchallenge-tvOSTests.xctest"
-               BlueprintName = "draaguchallenge-tvOSTests"
-               ReferencedContainer = "container:draaguchallenge.xcodeproj">
+               BuildableName = "draagu-tvOSTests.xctest"
+               BlueprintName = "draagu-tvOSTests"
+               ReferencedContainer = "container:draagu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "draaguchallenge-tvOSTests.xctest"
-               BlueprintName = "draaguchallenge-tvOSTests"
-               ReferencedContainer = "container:draaguchallenge.xcodeproj">
+               BuildableName = "draagu-tvOSTests.xctest"
+               BlueprintName = "draagu-tvOSTests"
+               ReferencedContainer = "container:draagu.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "draaguchallenge-tvOS.app"
-            BlueprintName = "draaguchallenge-tvOS"
-            ReferencedContainer = "container:draaguchallenge.xcodeproj">
+            BuildableName = "draagu-tvOS.app"
+            BlueprintName = "draagu-tvOS"
+            ReferencedContainer = "container:draagu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "draaguchallenge-tvOS.app"
-            BlueprintName = "draaguchallenge-tvOS"
-            ReferencedContainer = "container:draaguchallenge.xcodeproj">
+            BuildableName = "draagu-tvOS.app"
+            BlueprintName = "draagu-tvOS"
+            ReferencedContainer = "container:draagu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "draaguchallenge-tvOS.app"
-            BlueprintName = "draaguchallenge-tvOS"
-            ReferencedContainer = "container:draaguchallenge.xcodeproj">
+            BuildableName = "draagu-tvOS.app"
+            BlueprintName = "draagu-tvOS"
+            ReferencedContainer = "container:draagu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

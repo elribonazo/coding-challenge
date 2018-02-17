@@ -1,4 +1,7 @@
 {
-  "name": "draaguchallenge",
-  "displayName": "draaguchallenge"
+  "name": "draagu",
+  "displayName": "draagu",
+  "expo": {
+    "sdkVersion": "25.0.0"
+  }
 }

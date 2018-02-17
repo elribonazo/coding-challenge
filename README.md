@@ -2,7 +2,7 @@
 
 Building a simple react-native application with 2 views that lets the user load a list of articles from the fake API.
 By default we will be requesting the first page of articles and if the user scrolls down the article user pages must be requested and added to the existing articles.
-API specification (GET ALL Articles: http://demo.wp-api.org/wp-json/wp/v2/posts?per_page=1) paginating 10 elements on each page until no results are returned (last page) or until we reached the last page using the http response header "X-WP-TotalPages"
+API specification (GET ALL Articles: https://demo.wp-api.org/wp-json/wp/v2/posts?per_page=1) paginating 10 elements on each page until no results are returned (last page) or until we reached the last page using the http response header "X-WP-TotalPages"
 
 Pagination attributes:
 per_page (specifies the number of items per page, and goes in query params)
